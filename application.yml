@@ -2,3 +2,6 @@ myapp:
   info:
     url: "blabla"
     
+security:
+  basic:
+    enabled: false
