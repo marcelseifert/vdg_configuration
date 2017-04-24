@@ -1,6 +1,6 @@
 myapp:
   info:
-    url: "blabla"
+    url: "blub"
     
 security:
   basic:
