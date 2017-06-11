@@ -1,7 +1,7 @@
 myapp:
   info:
     url: "bla"
-    
+    test: '{cipher}7fd6565923dee6eb38d66a11082879ff03264ca001bc784e8f25337ce866518b'
 security:
   basic:
     enabled: false
